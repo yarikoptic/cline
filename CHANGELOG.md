@@ -2,8 +2,6 @@
 
 ## 3.12.4
 
-### Patch Changes
-
 -   89cbbe9: Add OpenAI o3 & 4o-mini
 -   4d696f3: gRPC over vscode message bus to make messaging better
 -   dd84bda: fix vertexai token count
